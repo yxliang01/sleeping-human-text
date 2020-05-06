@@ -3,4 +3,4 @@ Sleeping human in ASCII text
 
 # Content
 
-\[ (:>|--------------------- ]
+\[ (:D|--------------------- ]
